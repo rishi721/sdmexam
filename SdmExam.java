@@ -1,6 +1,6 @@
-package sdmexam;
+
 import java.util.Scanner;
-public class program {
+public class SdmExam {
 
 	public static void main(String[] args) {
 		  System.out.println("enter the two numbers");
